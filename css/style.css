@@ -61,7 +61,7 @@ ul, ol{
 }
  
 .boon_list{
-    margin-top:20%;
+    margin-top:10%;
 
 }
 
@@ -155,4 +155,163 @@ ul, ol{
     transform: scale(1.1);
 }
 
+/* main_ended */
+/* /////////////////////////////////////// */
 
+
+.section1 .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.uls_text{
+    margin-top: 50px;
+}
+
+.uls_text h4{
+    text-align: center;
+    color: gray;
+    font-weight: normal;
+}
+
+.uls_text h1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+    font-weight: normal;
+    transition: .5s;
+}
+
+
+.uls_text h1:hover{
+    color: red;
+    transform: scale(1.1);
+}
+
+
+.uls_list{
+    margin-top: 50px;
+    margin-left: -10%;
+}
+
+.uls_item{
+    display: inline-block;
+}
+
+.uls_item img{
+    width: 150px;
+}
+
+
+.uls_item h3{
+    margin-top: 10px;
+    font-size:25px;
+    transition: .5s;
+}
+
+
+.uls_item h3:hover{
+    color: red;
+}
+
+.uls_item p{
+    margin-top: 5px;
+    color: gray;
+    font-size: 19px;
+    width: 400px;
+    text-align: center;
+    margin-left: -30%;
+    transition: .5s;
+}
+
+
+.uls_item p:hover{
+    color: black;
+    transform: scale(1.1);
+}
+
+
+/* /////////////////////////////////////// */
+
+.uls_item2{
+    display: inline-block;
+}
+
+
+
+.uls_item2 img{
+    width: 150px;
+}
+
+
+.uls_item2 h3{
+    margin-top: 10px;
+    font-size:25px;
+    transition: .5s;
+    margin-left: -25px;
+}
+
+
+.uls_item2 h3:hover{
+    color: red;
+}
+
+.uls_item2 p{
+    margin-top: 5px;
+    color: gray;
+    font-size: 19px;
+    width: 400px;
+    text-align: center;
+    margin-left: -30%;
+    transition: .5s;
+}
+
+
+.uls_item2 p:hover{
+    color: black;
+    transform: scale(1.1);
+}
+
+
+/* ///////////////////////////////////////////////////////////// */
+
+.uls_item3{
+  position: absolute;
+  display: inline-block;
+}
+
+
+.uls_item3 img{
+    width: 150px;
+}
+
+
+.uls_item3 h3{
+    margin-top: 10px;
+    font-size:25px;
+    transition: .5s;
+    margin-left: -55px;
+}
+
+
+.uls_item3 h3:hover{
+    color: red;
+}
+
+.uls_item3 p{
+    margin-top: 5px;
+    color: gray;
+    font-size: 19px;
+    width: 400px;
+    text-align: center;
+    margin-left: -30%;
+    transition: .5s;
+}
+
+
+.uls_item3 p:hover{
+    color: black;
+    transform: scale(1.1);
+}
