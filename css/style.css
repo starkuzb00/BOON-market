@@ -45,6 +45,7 @@ ul, ol{
    margin: 0px 10px;
   font-weight: normal;
   transition: .5s;
+  margin-top: -10%;
 }
 
 
@@ -52,5 +53,49 @@ ul, ol{
     color: red;
     transform: scale(1.1);
 }
+ 
+.boon_list{
+    margin-top:20%;
 
 }
+
+.boon_item{
+    display: inline-block;
+    margin: 0px 20px;
+    margin-left: 70px;
+}
+
+
+.boon_item a{
+    color: black;
+    display: inline-block;
+   transition: .5s;
+}
+
+
+.boon_item a:hover{
+    color: red;
+    transform: scale(1.1);
+}
+
+
+
+.boon1 h2{
+    margin-left: 45%;
+    font-size: 30px;
+    color: gray;
+    font-weight: normal;
+}
+
+
+.boon1 h4{
+    color: gray;
+    font-size: 25px;
+    margin-left:  45.5%; 
+    margin-top: 10px;
+    font-weight: normal;
+}
+
+
+
+/* navbar-ended */
