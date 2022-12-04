@@ -315,3 +315,192 @@ ul, ol{
     color: black;
     transform: scale(1.1);
 }
+
+
+
+/* first_section_ended*/
+/* //////////////////////////////// */
+
+
+
+.section2 .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.your_list{
+    ;
+}
+
+.your_text{
+    margin-top: 50px;
+}
+
+
+.your_text h1{
+    text-align: center;
+    font-size:50px;
+    transition: .5s;
+}
+
+
+.your_text h1:hover{
+    color: red;
+    transform: scale(1.1);
+}
+
+
+
+.your_item img{
+    width: 270px;
+}
+
+
+.your_item p{
+    margin-top: 5px;
+    color: gray;
+    font-weight: bolder;
+}
+
+.your_item h3{
+    margin-top: 5px;
+    font-style: 26px;
+    transition: .5s;
+}
+
+
+.your_item h3:hover{
+    color: red;
+    transform: scale(1.1);
+}
+
+
+.your_item{
+    margin: 0px 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+
+.your_item  hr{
+    margin-top: 10px;
+    width: 300px;
+}
+
+
+/* /////////////////////////////////////////////// */
+
+
+
+
+
+
+.your_text2 h1{
+    text-align: center;
+    font-size:50px;
+    transition: .5s;
+}
+
+
+.your_text2 h1:hover{
+    color: red;
+    transform: scale(1.1);
+}
+
+
+
+.your_item2 img{
+    width: 270px;
+}
+
+
+.your_item2 p{
+    margin-top: 5px;
+    color: gray;
+    font-weight: bolder;
+}
+
+.your_item2 h3{
+    margin-top: 5px;
+    font-style: 26px;
+    transition: .5s;
+}
+
+
+.your_item2 h3:hover{
+    color: red;
+    transform: scale(1.1);
+}
+
+
+.your_item2{
+    margin: 0px 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+
+.your_item2  hr{
+    margin-top: 10px;
+    width: 300px;
+}
+
+
+
+/* ////////////////////////////////////// */
+
+
+
+
+.your_text3 h1{
+    text-align: center;
+    font-size:50px;
+    transition: .5s;
+}
+
+
+.your_text3 h1:hover{
+    color: red;
+    transform: scale(1.1);
+}
+
+
+
+.your_item3 img{
+    width: 270px;
+}
+
+
+.your_item3 p{
+    margin-top: 5px;
+    color: gray;
+    font-weight: bolder;
+}
+
+.your_item3 h3{
+    margin-top: 5px;
+    font-style: 26px;
+    transition: .5s;
+}
+
+
+.your_item3 h3:hover{
+    color: red;
+    transform: scale(1.1);
+}
+
+
+.your_item3{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+
+.your_item3  hr{
+    margin-top: 10px;
+    width: 300px;
+}
