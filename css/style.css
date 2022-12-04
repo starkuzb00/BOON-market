@@ -250,7 +250,7 @@ ul, ol{
     margin-top: 10px;
     font-size:25px;
     transition: .5s;
-    margin-left: -25px;
+    margin-left: -40px;
 }
 
 
@@ -292,7 +292,7 @@ ul, ol{
     margin-top: 10px;
     font-size:25px;
     transition: .5s;
-    margin-left: -55px;
+    margin-left: -60px;
 }
 
 
@@ -329,9 +329,7 @@ ul, ol{
     justify-content: center;
 }
 
-.your_list{
-    ;
-}
+
 
 .your_text{
     margin-top: 50px;
@@ -503,4 +501,17 @@ ul, ol{
 .your_item3  hr{
     margin-top: 10px;
     width: 300px;
+}
+
+
+
+.yor_list h4{
+    margin-top: 10px;
+    transition: .5s;
+}
+
+
+.yor_list h4:hover{
+    color: red;
+    transform: scale(1.1);
 }
