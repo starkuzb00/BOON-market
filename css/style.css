@@ -745,6 +745,7 @@ background-color: black;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 10%;
 }
 
 
@@ -766,14 +767,6 @@ background-color: black;
     margin-left: 65%;
     margin-top: -50%;
 }
-
-
-
-
-
-
-
-
 
 
 .fresh_text4 h2{
